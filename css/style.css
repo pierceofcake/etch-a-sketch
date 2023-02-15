@@ -1,0 +1,15 @@
+.pixel {
+  height: 50px;
+  width: 70px;
+  border: solid black 1px;
+}
+
+.sketch-container {
+  min-height: 400px;
+  min-width: 400px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  padding: 100px;
+}
